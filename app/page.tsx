@@ -12,14 +12,14 @@ const LogoSection = () => {
       <div className="relative w-10 h-10 rounded-lg overflow-hidden shadow-md transition-transform transform group-hover:scale-105">
         <img 
           src="/logo.png" 
-          alt="VaaniVista" 
+          alt="VaaniVistaar" 
           className="w-full h-full object-cover"
         />
         <div className="absolute inset-0 bg-gradient-to-br from-[#4A0E0E]/20 to-transparent" />
       </div>
       <div className="flex flex-col">
         <h2 className="text-[#F5E6D3] text-2xl font-bold leading-tight tracking-tight group-hover:text-[#E6B587] transition-colors">
-          VaaniVista
+          VaaniVistaar
         </h2>
         <span className="text-[#F5E6D3]/80 text-xs font-medium leading-tight tracking-wider">
           TRANSLATE • CONNECT
@@ -143,7 +143,7 @@ const HomePage = () => {
                     Connect with the world through translation
                   </h2>
                   <p className="text-[#F5E6D3] text-xl font-normal leading-relaxed mb-10">
-                    With VanniVista, you can read, listen to, and watch content in multiple languages. <a href="/signup" className="underline">Sign up today</a> and start translating your content into over 100 languages.
+                    With VaaniVistaar, you can read, listen to, and watch content in multiple languages. <a href="/signup" className="underline">Sign up today</a> and start translating your content into over 100 languages.
                   </p>
                   <a href="/signup" className="inline-flex items-center gap-2 px-4 py-3 bg-[#C45C26] text-[#F5E6D3] rounded-md hover:bg-[#A0522D] transition-colors">
                     Get started

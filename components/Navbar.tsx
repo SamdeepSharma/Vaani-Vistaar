@@ -6,7 +6,7 @@ const Navbar: React.FC = () => {
     <header className="bg-blue-600 text-white shadow-lg">
       <div className="container mx-auto flex flex-col md:flex-row items-center justify-between p-6">
         <h1 className="text-4xl font-bold mb-4 md:mb-0 hover:text-yellow-300 transition duration-300">
-          VaaniVista
+          VaaniVistaar
         </h1>
         <nav>
           <ul className="flex space-x-6">

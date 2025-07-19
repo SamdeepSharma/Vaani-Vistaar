@@ -1,7 +1,7 @@
-# Vaani Vista
+# Vaani Vistaar
 
 ## Overview
-Vaani Vista is an advanced AI-powered translation platform designed to facilitate seamless translation across multiple formats, including text documents, audio files, and video content. The platform supports translation services in a wide range of regional languages as well as the official languages of India.
+Vaani Vistaar is an advanced AI-powered translation platform designed to facilitate seamless translation across multiple formats, including text documents, audio files, and video content. The platform supports translation services in a wide range of regional languages as well as the official languages of India.
 
 ### Features
 - **Multi-Format Translation**: Supports text, audio, and video translations.
@@ -21,8 +21,8 @@ Ensure you have the following installed on your system:
 ### Steps to Install
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/vaani-vista.git
-   cd vaani-vista
+   git clone https://github.com/yourusername/vaani-vistaar.git
+cd vaani-vistaar
    ```
 2. **Install dependencies:**
    ```bash
@@ -63,7 +63,7 @@ Ensure you have the following installed on your system:
 - **Download the translated output** in various formats.
 
 ## Deployment
-Vaani Vista can be deployed using **Vercel** or **Docker**.
+Vaani Vistaar can be deployed using **Vercel** or **Docker**.
 
 ### Deploy with Vercel
 1. Install Vercel CLI:
@@ -78,11 +78,11 @@ Vaani Vista can be deployed using **Vercel** or **Docker**.
 ### Deploy with Docker
 1. Build the Docker image:
    ```bash
-   docker build -t vaani-vista .
+   docker build -t vaani-vistaar .
    ```
 2. Run the container:
    ```bash
-   docker run -p 3000:3000 vaani-vista
+   docker run -p 3000:3000 vaani-vistaar
    ```
 
 ## Contributing

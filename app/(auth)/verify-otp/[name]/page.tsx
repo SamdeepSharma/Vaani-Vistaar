@@ -78,14 +78,14 @@ export default function VerifyAccount() {
         <div className="relative w-20 h-20 rounded-lg overflow-hidden shadow-lg transition-transform transform hover:scale-105">
           <img 
             src="/logo.png" 
-            alt="VaaniVista" 
+            alt="VaaniVistaar" 
             className="w-full h-full object-cover"
           />
           <div className="absolute inset-0 bg-gradient-to-br from-[#4A0E0E]/10 to-transparent" />
         </div>
         <div className="flex flex-col items-center">
           <h2 className="text-[#4A0E0E] text-3xl font-bold leading-tight tracking-tight">
-            VaaniVista
+            VaaniVistaar
           </h2>
           <span className="text-[#C45C26] text-sm font-medium leading-tight tracking-wider">
             TRANSLATE • CONNECT

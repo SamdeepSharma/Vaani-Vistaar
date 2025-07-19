@@ -9,7 +9,7 @@ const TranslationService: React.FC = () => {
   return (
     <div className="min-h-screen bg-gradient-to-b fbg-gradient-to-b from-orange-100 to-red-100">
       <Head>
-        <title>VaaniVista - Bridge of Indian Languages</title>
+        <title>VaaniVistaar - Bridge of Indian Languages</title>
         <meta name="description" content="Translate your content into Indian regional languages with ease" />
       </Head>
       <main className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
@@ -32,7 +32,7 @@ const HeroSection: React.FC = () => (
     />
     <div className="absolute inset-0 bg-gradient-to-r from-orange-500/70 to-blue-500/70" />
     <div className="absolute bottom-12 left-12 text-white max-w-2xl">
-      <h1 className="text-6xl font-bold mb-6">VaaniVista</h1>
+      <h1 className="text-6xl font-bold mb-6">VaaniVistaar</h1>
       <p className="text-2xl mb-8">Your voice in every language - Translate your content into Indian regional languages with ease</p>
       <button className="bg-yellow-400 hover:bg-yellow-500 text-blue-900 font-bold py-4 px-8 rounded-full text-xl transition duration-300 shadow-lg">
         Get Started

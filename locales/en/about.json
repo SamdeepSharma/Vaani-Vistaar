@@ -1,11 +1,11 @@
 {
   "AboutPage": {
-    "pageTitle": "About Vaani Vista - Bridging Languages, Connecting Cultures",
-    "pageDescription": "Learn about Vaani Vista's mission to break down language barriers and foster global communication through innovative translation services."
+    "pageTitle": "About Vaani Vistaar - Bridging Languages, Connecting Cultures",
+    "pageDescription": "Learn about Vaani Vistaar's mission to break down language barriers and foster global communication through innovative translation services."
   },
     "HeroSection": {
-      "logoAlt": "Vaani Vista Logo",
-      "title": "Vaani Vista",
+      "logoAlt": "Vaani Vistaar Logo",
+      "title": "Vaani Vistaar",
       "subtitle": "Bridging Languages, Connecting Cultures"
     },
     "Navigation": {
@@ -13,7 +13,7 @@
     },
     "MissionStatement": {
       "title": "Our Mission",
-      "paragraph1": "At Vaani Vista, we're dedicated to breaking down language barriers and fostering global communication.",
+      "paragraph1": "At Vaani Vistaar, we're dedicated to breaking down language barriers and fostering global communication.",
       "paragraph2": "Through innovative translation services, we empower individuals and communities to connect, share, and understand each other better."
     },
     "Services": {
@@ -61,7 +61,7 @@
       "contactSupport": "Contact Support",
       "productUpdates": "Product Updates",
       "pricing": "Pricing",
-      "copyright": "© 2024 Vaani Vista. All rights reserved."
+      "copyright": "© 2025 Vaani Vistaar. All rights reserved."
   },
     "Home": {
       "nav": {
@@ -74,8 +74,8 @@
         "logIn": "Log in",
         "signOut": "Sign out"
       },
-      "pageTitle": "VaaniVista - Translate, Connect, Expand Your Reach",
-      "pageDescription": "Translate, transcribe, subtitle, and voiceover your content into multiple languages with VaaniVista.",
+      "pageTitle": "VaaniVistaar - Translate, Connect, Expand Your Reach",
+      "pageDescription": "Translate, transcribe, subtitle, and voiceover your content into multiple languages with VaaniVistaar.",
       "hero": {
         "title": "Translate, transcribe, subtitle, and voiceover",
         "subtitle": "We help creators, businesses, and individuals expand their audience by translating their content into multiple languages."
@@ -90,26 +90,26 @@
       },
       "cta": {
         "title": "Connect with the world through translation",
-        "description": "With VanniVista, you can read, listen to, and watch content in multiple languages.",
+        "description": "With VaaniVistaar, you can read, listen to, and watch content in multiple languages.",
         "signUpLink": "Sign up today",
         "getStarted": "Get started"
       }
     },
     "Common": {
-      "brandName": "VaaniVista",
+      "brandName": "VaaniVistaar",
       "brandSlogan": "TRANSLATE • CONNECT",
-      "logoAlt": "VaaniVista Logo"
+      "logoAlt": "VaaniVistaar Logo"
     },
     "About": {
       "backToHome": "Return",
       "hero": {
-        "logoAlt": "Vaani Vista Logo",
-        "title": "Vaani Vista",
+        "logoAlt": "Vaani Vistaar Logo",
+        "title": "Vaani Vistaar",
         "subtitle": "Bridging Languages, Connecting Cultures"
       },
       "mission": {
         "title": "Our Mission",
-        "paragraph1": "At Vaani Vista, we're dedicated to breaking down language barriers and fostering global communication.",
+        "paragraph1": "At Vaani Vistaar, we're dedicated to breaking down language barriers and fostering global communication.",
         "paragraph2": "Through innovative translation services, we empower individuals and communities to connect, share, and understand each other better."
       }
     },
@@ -136,17 +136,17 @@
       "contactSupport": "Contact Support",
       "productUpdates": "Product Updates",
       "pricing": "Pricing",
-      "copyright": "@2024, All Rights Reserved."
+      "copyright": "@2025, All Rights Reserved."
     },
     "signUp": {
       "brand": {
-        "logoAlt": "VaaniVista",
-        "name": "VaaniVista",
+        "logoAlt": "VaaniVistaar",
+        "name": "VaaniVistaar",
         "slogan": "TRANSLATE • CONNECT"
       },
       "header": {
         "title": "Create Your Account",
-        "subtitle": "Join VaaniVista and start connecting"
+        "subtitle": "Join VaaniVistaar and start connecting"
       },
       "form": {
         "username": {
@@ -195,9 +195,9 @@
     },
     "verify": {
     "brand": {
-      "name": "VaaniVista",
+      "name": "VaaniVistaar",
       "slogan": "TRANSLATE • CONNECT",
-      "logoAlt": "VaaniVista Logo"
+      "logoAlt": "VaaniVistaar Logo"
     },
     "header": {
       "title": "Verify Your Account",
@@ -225,8 +225,8 @@
   },
   "signIn": {
     "brand": {
-      "logoAlt": "VaaniVista Logo",
-      "name": "VaaniVista",
+      "logoAlt": "VaaniVistaar Logo",
+      "name": "VaaniVistaar",
       "slogan": "TRANSLATE • CONNECT"
     },
     "header": {
@@ -262,9 +262,9 @@
   },
   "forgotPassword": {
       "brand": {
-        "name": "VaaniVista",
+        "name": "VaaniVistaar",
         "slogan": "TRANSLATE • CONNECT",
-        "logoAlt": "VaaniVista Logo"
+        "logoAlt": "VaaniVistaar Logo"
       },
       "header": {
         "title": "Forgot Password?",
@@ -287,8 +287,8 @@
     },
     "verifyOTP": {
       "brand": {
-        "logoAlt": "VaaniVista Logo",
-        "name": "VaaniVista",
+        "logoAlt": "VaaniVistaar Logo",
+        "name": "VaaniVistaar",
         "slogan": "TRANSLATE • CONNECT"
       },
       "header": {
@@ -309,8 +309,8 @@
     },
     "resetPassword": {
       "brand": {
-        "logoAlt": "VaaniVista Logo",
-        "name": "VaaniVista",
+        "logoAlt": "VaaniVistaar Logo",
+        "name": "VaaniVistaar",
         "slogan": "TRANSLATE • CONNECT"
       },
       "header": {

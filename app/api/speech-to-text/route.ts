@@ -116,7 +116,7 @@ try:
     warnings.filterwarnings('ignore', message=r'.*SSL.*')
 
     model = whisper.load_model("base")
-    audio_path = r"/Users/anchitmehra/Documents/coding/projects/new_vanni/vanni-vista/tmp/1731483194086.mp3"
+    audio_path = r"/Users/anchitmehra/Documents/coding/projects/new_vanni/vaani-vistaar/tmp/1731483194086.mp3"
     result = model.transcribe(audio_path)
 
     transcribed_text = result["text"].strip()
