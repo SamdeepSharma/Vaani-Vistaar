@@ -1,0 +1,340 @@
+{
+  "AboutPage": {
+    "pageTitle": "About Vaani Vista - Bridging Languages, Connecting Cultures",
+    "pageDescription": "Learn about Vaani Vista's mission to break down language barriers and foster global communication through innovative translation services."
+  },
+    "HeroSection": {
+      "logoAlt": "Vaani Vista Logo",
+      "title": "Vaani Vista",
+      "subtitle": "Bridging Languages, Connecting Cultures"
+    },
+    "Navigation": {
+      "backToHome": "Return"
+    },
+    "MissionStatement": {
+      "title": "Our Mission",
+      "paragraph1": "At Vaani Vista, we're dedicated to breaking down language barriers and fostering global communication.",
+      "paragraph2": "Through innovative translation services, we empower individuals and communities to connect, share, and understand each other better."
+    },
+    "Services": {
+      "title": "Our Services",
+      "textTranslation": {
+        "title": "Text Translation",
+        "description": "Professional translation services for documents, websites, and more."
+      },
+      "audioTranslation": {
+        "title": "Audio Translation",
+        "description": "High-quality audio content translation and localization."
+      },
+      "videoTranslation": {
+        "title": "Video Translation",
+        "description": "Comprehensive video translation services including subtitling and dubbing."
+      },
+      "communityDriven": {
+        "title": "Community-Driven",
+        "description": "Powered by a network of language enthusiasts and professional translators."
+      },
+      "educationalResources": {
+        "title": "Educational Resources",
+        "description": "Learning materials to help you improve your language skills."
+      },
+      "realTimeTranslation": {
+        "title": "Real-Time Translation",
+        "description": "Instant translation services for live communication."
+      }
+    },
+    "Impact": {
+      "title": "Our Impact",
+      "items": [
+        "Connected over 1 million people across language barriers",
+        "Supported 500+ businesses in global expansion",
+        "Facilitated cultural exchange in 100+ countries",
+        "Provided educational resources in 50+ languages"
+      ]
+    },
+    "CallToAction": {
+      "title": "Join Our Community",
+      "description": "Be part of our mission to create a more connected world."
+    },
+    "Footer": {
+      "helpCenter": "Help Center",
+      "contactSupport": "Contact Support",
+      "productUpdates": "Product Updates",
+      "pricing": "Pricing",
+      "copyright": "© 2024 Vaani Vista. All rights reserved."
+  },
+    "Home": {
+      "nav": {
+        "voice": "Voice",
+        "text": "Text",
+        "video": "Video",
+        "aboutUs": "About Us",
+        "signInPrompt": "Please sign in to access services.",
+        "signUp": "Sign up",
+        "logIn": "Log in",
+        "signOut": "Sign out"
+      },
+      "pageTitle": "VaaniVista - Translate, Connect, Expand Your Reach",
+      "pageDescription": "Translate, transcribe, subtitle, and voiceover your content into multiple languages with VaaniVista.",
+      "hero": {
+        "title": "Translate, transcribe, subtitle, and voiceover",
+        "subtitle": "We help creators, businesses, and individuals expand their audience by translating their content into multiple languages."
+      },
+      "howItWorks": {
+        "title": "How it works",
+        "description": "Upload your content or enter a URL, we'll translate it into the language of your choice. We also offer transcription, subtitling, and voiceover services.",
+        "step1": "Upload your content or enter a URL",
+        "step2": "Choose the language you want to translate into",
+        "step3": "We'll translate your content and send it back to you",
+        "step4": "Download your translated content or publish it directly"
+      },
+      "cta": {
+        "title": "Connect with the world through translation",
+        "description": "With VanniVista, you can read, listen to, and watch content in multiple languages.",
+        "signUpLink": "Sign up today",
+        "getStarted": "Get started"
+      }
+    },
+    "Common": {
+      "brandName": "VaaniVista",
+      "brandSlogan": "TRANSLATE • CONNECT",
+      "logoAlt": "VaaniVista Logo"
+    },
+    "About": {
+      "backToHome": "Return",
+      "hero": {
+        "logoAlt": "Vaani Vista Logo",
+        "title": "Vaani Vista",
+        "subtitle": "Bridging Languages, Connecting Cultures"
+      },
+      "mission": {
+        "title": "Our Mission",
+        "paragraph1": "At Vaani Vista, we're dedicated to breaking down language barriers and fostering global communication.",
+        "paragraph2": "Through innovative translation services, we empower individuals and communities to connect, share, and understand each other better."
+      }
+    },
+    "services": {
+      "title": "Our Services",
+      "voiceTranslation": {
+        "title": "Voice Translation",
+        "description": "Convert spoken content between multiple regional and official languages instantly.",
+        "buttonText": "Start speaking"
+      },
+      "textTranslation": {
+        "title": "Text Translation",
+        "description": "Instantly translate written content into various regional and official languages.",
+        "buttonText": "Start typing"
+      },
+      "videoTranslation": {
+        "title": "Video Translation",
+        "description": "Transform video content into multiple languages while preserving the original context.",
+        "buttonText": "Start watching"
+      }
+    },
+    "footer": {
+      "helpCenter": "Help Center",
+      "contactSupport": "Contact Support",
+      "productUpdates": "Product Updates",
+      "pricing": "Pricing",
+      "copyright": "@2024, All Rights Reserved."
+    },
+    "signUp": {
+      "brand": {
+        "logoAlt": "VaaniVista",
+        "name": "VaaniVista",
+        "slogan": "TRANSLATE • CONNECT"
+      },
+      "header": {
+        "title": "Create Your Account",
+        "subtitle": "Join VaaniVista and start connecting"
+      },
+      "form": {
+        "username": {
+          "label": "Username",
+          "placeholder": "Choose a username",
+          "checking": "Checking username..."
+        },
+        "phone": {
+          "label": "Phone Number",
+          "placeholder": "Enter your phone number"
+        },
+        "email": {
+          "label": "Email Address",
+          "placeholder": "Enter your email"
+        },
+        "password": {
+          "label": "Password",
+          "placeholder": "Enter your password"
+        },
+        "terms": {
+          "text": "I agree to the",
+          "link": "Terms and Conditions"
+        },
+        "submit": {
+          "default": "Sign Up",
+          "loading": "Creating Account..."
+        }
+      },
+      "signIn": {
+        "text": "Already have an account?",
+        "link": "Sign In"
+      },
+      "toast": {
+        "termsRequired": {
+          "title": "Agreement Required",
+          "description": "Please agree to the terms and conditions."
+        },
+        "success": {
+          "title": "Success"
+        },
+        "error": {
+          "title": "Sign Up Failed",
+          "defaultDescription": "There was a problem with your sign-up. Please try again."
+        }
+      }
+    },
+    "verify": {
+    "brand": {
+      "name": "VaaniVista",
+      "slogan": "TRANSLATE • CONNECT",
+      "logoAlt": "VaaniVista Logo"
+    },
+    "header": {
+      "title": "Verify Your Account",
+      "subtitle": "Enter the verification code sent to your email or phone"
+    },
+    "form": {
+      "otp": {
+        "label": "Verification Code",
+        "placeholder": "Enter 6-digit code"
+      },
+      "submit": {
+        "default": "Verify",
+        "loading": "Verifying..."
+      }
+    },
+    "toast": {
+      "success": {
+        "title": "Success"
+      },
+      "error": {
+        "title": "Verification Failed",
+        "defaultDescription": "An error occurred. Please try again."
+      }
+    }
+  },
+  "signIn": {
+    "brand": {
+      "logoAlt": "VaaniVista Logo",
+      "name": "VaaniVista",
+      "slogan": "TRANSLATE • CONNECT"
+    },
+    "header": {
+      "title": "Welcome Back",
+      "subtitle": "Sign in to your account"
+    },
+    "form": {
+      "identifier": {
+        "label": "Email or Username",
+        "placeholder": "Enter your email or username"
+      },
+      "password": {
+        "label": "Password",
+        "placeholder": "Enter your password"
+      },
+      "forgotPassword": "Forgot Password?",
+      "submit": {
+        "default": "Sign In",
+        "loading": "Signing In..."
+      }
+    },
+    "toast": {
+      "error": {
+        "title": "Sign In Failed",
+        "incorrectCredentials": "Incorrect username or password",
+        "defaultDescription": "An error occurred. Please try again."
+      }
+    },
+    "signUp": {
+      "text": "Not a member yet?",
+      "link": "Sign up"
+    }
+  },
+  "forgotPassword": {
+      "brand": {
+        "name": "VaaniVista",
+        "slogan": "TRANSLATE • CONNECT",
+        "logoAlt": "VaaniVista Logo"
+      },
+      "header": {
+        "title": "Forgot Password?",
+        "subtitle": "No worries! Enter your email and we'll send you a reset OTP."
+      },
+      "form": {
+        "email": {
+          "label": "Email Address",
+          "placeholder": "Enter your email"
+        },
+        "submit": {
+          "default": "Send Reset OTP",
+          "loading": "Sending OTP..."
+        }
+      },
+      "error": {
+        "default": "Something went wrong. Please try again later."
+      },
+      "backToSignIn": "Back to Sign In"
+    },
+    "verifyOTP": {
+      "brand": {
+        "logoAlt": "VaaniVista Logo",
+        "name": "VaaniVista",
+        "slogan": "TRANSLATE • CONNECT"
+      },
+      "header": {
+        "title": "Verify OTP",
+        "subtitle": "Enter the OTP sent to your email"
+      },
+      "form": {
+        "otpPlaceholder": "Enter OTP",
+        "otpLabel": "Enter OTP",
+        "verifying": "Verifying...",
+        "verify": "Verify OTP"
+      },
+      "error": {
+        "invalidOTP": "Invalid OTP. Please try again.",
+        "generic": "Something went wrong. Please try again later."
+      },
+      "backLink": "Back to Forgot Password"
+    },
+    "resetPassword": {
+      "brand": {
+        "logoAlt": "VaaniVista Logo",
+        "name": "VaaniVista",
+        "slogan": "TRANSLATE • CONNECT"
+      },
+      "header": {
+        "title": "Reset Password",
+        "subtitle": "Please enter your new password below."
+      },
+      "form": {
+        "newPassword": {
+          "label": "New Password",
+          "placeholder": "Enter new password"
+        },
+        "confirmPassword": {
+          "label": "Confirm Password",
+          "placeholder": "Confirm new password"
+        },
+        "submit": {
+          "default": "Reset Password",
+          "loading": "Resetting Password..."
+        }
+      },
+      "error": {
+        "passwordMismatch": "Passwords do not match",
+        "resetFailed": "Failed to reset password. Please try again.",
+        "generic": "Something went wrong. Please try again later."
+      }
+    }
+}
